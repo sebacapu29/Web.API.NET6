@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/MS.Postman.NerdNap/v16/.suo
+/.vs/MS.Postman.NerdNap/v17/.suo
+/.vs/MS.Postman.NerdNap/DesignTimeBuild/.dtbcache.v2
+/MS.Postman.Domain.NerdNap/bin/Debug/net6.0
+/MS.Postman.Domain.NerdNap/obj
+/MS.Postman.NerdNap/bin/Debug/net6.0
+/MS.Postman.NerdNap/obj
+/MS.Postman.Service.NerdNap/bin/Debug/net6.0
+/MS.Postman.Service.NerdNap/obj
